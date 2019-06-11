@@ -25,7 +25,7 @@ window.addEventListener('copy', () => {
 });
 
 window.addEventListener('wheel', () => {
-	alert('We scrolling! Use your arrow keys.');
+	alert('We scroooolling! Use your arrow keys.');
 });
 
 window.addEventListener('keydown', () => {
